@@ -8,7 +8,7 @@ import io.swagger.annotations.*;
 //	@Api: 해당 컨트롤러에 내용을 설정
 //	@ApiImpicitParams: 컨트롤러에 매핑될 파라미터들에 설정
 //	@ApiImpicitParam: 매핑될 파라미터 하나의 내용을 설정
-//	@ApiResponse: 응답 코드에 대한 설명
+//	@ApiResponse: 응답 코드에 대한 설9명
 //	@ApiOperation: 매핑 메소드에 대한 설명
 
 @RequestMapping("/api")
